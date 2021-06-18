@@ -1,3 +1,3 @@
-#Aghina AP, BTech Student
+#AghinaP, BTech Student
 ##I like icecream
 What *favour* do you like?
