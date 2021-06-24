@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+A list of your favorite things:
+1. i like 🐱
+2. i like
+
+In order, these are the favourite flavour of ice cream:
+ 1. vannilla
+ 2. chocolate
+
