@@ -1,6 +1,6 @@
 A list of your favorite things:
 1. i like 🐱
-2. i like 📚
+2.  📚
 
 In order, these are the favourite flavour of ice cream:
  1. vannilla
